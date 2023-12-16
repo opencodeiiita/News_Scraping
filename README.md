@@ -2,7 +2,7 @@
 A good data scientist not only has extensive knowledge of machine learning, and deep learning, but also has the ability to extract and gather data from various sources and store it in a useable format. This task will introduce you to the first step of all data science tasks, data collection. One method of data collection is web scraping, which you will be working on in this task.
 
 *Problem Statement*
-This task involves collecting news headlines from [times of india](https://timesofindia.indiatimes.com/) along with description of the headline and other supporting information. This data should be stored in a csv format. 
+This project involves collecting data from various online sources. You are asked to collect relevant news data on different stocks, collect financial news headlines. The second part of the project is data cleaning and pre processing. You are asked to present a clean and usable dataset.
 
 # Instructions
 * Refer to beautiful soup's online documentation or refer to youtube videos if you run into a problem instead of using ChatGPT
