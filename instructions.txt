@@ -1,0 +1,24 @@
+WEB SCRAPING TASK INSTRUCTIONS:
+Hello! fellow Data Science enthusiasts. Welcome to a new project of OpenCode '23. In this project, you will be exposed to the first step in the data science work flow, which is data collection. 
+You are asked to scrape news data of stock symbols from different financial websites. 
+
+These websites include:
+
+1. https://www.nseindia.com/
+2. https://www.moneycontrol.com/
+3. https://economictimes.indiatimes.com/markets
+4. https://stockanalysis.com/news/all-stocks/
+5. https://seekingalpha.com/market-news
+
+Don't limit yourself to these websites, please explore and use any data source that you can find. 
+
+A secondary goal in task 1 is to scrape the factors of a certain stock. These factors are listed out in the WEB_SCRAPING_TASK_1.ipynb file in the repo.
+Don't stress too much about those factors, the main goal is to find the news headlines related to that stock. 
+YOUR OBJECTIVE IS TO WRITE GOOD QUALITY, REUSABLE AND GENERALIZED CODE TO SCRAPE MOST RECENT NEWS HEADLINES OF INPUT STOCK SYMBOLS. POINTS WILL BE AWARDED ON THE BASIS OF CODE FUNCTIONALITY
+Remember that the news headlines should be recent, Aim to gather news headlines from present day to at least 6 months in the past. 
+
+For task 2, you just have to return a csv file containing the trending financial news from the above sources or any other financial websites that you follow or know of. Keep the news as recent as possible and only the headlines is enough. Keep a sizeable amount of rows in the dataset. You will be evaluated based on the csv file your code returns. 
+
+Thank you, enoy coding
+
+
