@@ -1,0 +1,5 @@
+RESOURCES FOR WEB SCRAPING:
+https://www.youtube.com/watch?v=4tAp9Lu0eDI&t=1000s&pp=ygUZd2ViIHNjcmFwaW5nIHVzaW5nIHB5dGhvbg%3D%3D
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+https://requests.readthedocs.io/en/latest/
+https://havidr.medium.com/how-to-extract-data-with-python-beautifulsoup-80a5efddb3d1 
