@@ -1,4 +1,7 @@
 # News_Scraping
+
+### Please read the instructions.txt carefully before attempting the tasks 
+
 A good data scientist not only has extensive knowledge of machine learning, and deep learning, but also has the ability to extract and gather data from various sources and store it in a useable format. This task will introduce you to the first step of all data science tasks, data collection. One method of data collection is web scraping, which you will be working on in this task.
 
 *Problem Statement*
