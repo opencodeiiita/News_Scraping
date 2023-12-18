@@ -19,7 +19,7 @@ An example input to test your code on can be :
 ['INFY','ICICIBANK','HDFCBANK','RELIANCE','SUNPHARMA','MARUTI','TCS','BAJAJFINSV','ITC','KOTAKBANK','LT','HCLTECH','ASIANPAINT','HINDUNILVR','TATASTEEL']
 Remember that the news headlines should be recent, Aim to gather news headlines from present day to at least 6 months in the past. Test your code on the input list given above and make sure tha your code returns a csv file having information on all the above stocks
 
-For task 2, you just have to return a csv file containing the trending financial news from the above sources or any other financial websites that you follow or know of. Keep the news as recent as possible and only the headlines is enough. Keep a sizeable amount of rows in the dataset. You will be evaluated based on the csv file your code returns. 
+For task 2, you just have to return a csv file containing the trending financial news (not related to a stock, just in general financial news) from the above sources or any other financial websites that you follow or know of. Keep the news as recent as possible and only the headlines is enough. Keep a sizeable amount of rows in the dataset. You will be evaluated based on the csv file your code returns. 
 
 Thank you, enoy coding
 
